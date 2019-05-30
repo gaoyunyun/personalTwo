@@ -1,0 +1,74 @@
+/*所有样式*/
+.right_cont {
+	margin: 0 auto;
+	width: 800px;
+}
+/*横线*/
+.user_hr {
+	margin-top: 35px;
+	margin-bottom: 20px;
+	border-top: 1px solid #E0E0E0;
+}
+/*头像部分*/
+.header {
+	float: left;
+}
+/*头像样式*/
+.head {
+	width: 115px;
+	height: 115px;
+	border-radius: 50%;
+}
+/*修改头像*/
+.modify {
+	margin-left: 26px;
+	margin-top: 10px;
+}
+
+.modify a:link {
+	text-decoration: none;
+}
+/*上传文件*/
+.modify .file {
+	display: none;
+}
+/*右边样式*/
+.right_c {
+	margin-left: 140px;
+}
+/*ID样式*/
+.id_name {
+	color: #999999;
+}
+/*竖线样式*/
+.splits {
+	color: #E0E0E0;
+}
+/*属性样式*/
+.csdn_info {
+	margin-top: 10px;
+}
+
+.csdn_info a:link {
+	text-decoration: none;
+}
+
+.charge a:link {
+	text-decoration: none;
+}
+/*横线*/
+.user_hr2 {
+	margin-top: 18px;
+	margin-bottom: 12px;
+	border-top: 1px solid #E0E0E0;
+}
+/*列表样式*/
+.self {
+	list-style: none;
+	margin-left: -40px;
+}
+/*单项样式*/
+.self li {
+	margin-top: 6px;
+	margin-bottom: 18px;
+}
